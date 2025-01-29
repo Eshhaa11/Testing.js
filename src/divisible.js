@@ -1,5 +1,5 @@
-function divnum(num) {
+function isDivisibleBy2(num) {
     return num % 2 === 0; 
   }
   
-  module.exports = divnum;
+  module.exports = isDivisibleBy2;
